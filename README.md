@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+This is a markdown previewer made to fulfil the criteria of the first project from FreeCodeCamp's 'Front End Development Libraries' certification.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
 
-## Available Scripts
+It generates rendered html by passing input data through react-markdwon component
 
-In the project directory, you can run:
+You can see it in action at: https://alcun.github.io/Markdown-Previewer
 
-### `npm start`
+It uses a variety of langauges and frameworks:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+HTML 5
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+SASS / SCSS + Bootstrap for styling/layout
 
-### `npm test`
+JS (Primarily React to generate HTML for component functionality and fetch API data)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Some Bootstrap for layout and icons
 
-### `npm run build`
+It was developed using:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+GitBash and Linux Mint
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Visual Studio Code and plugins
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Node.js local dev server and NPM
 
-### `npm run eject`
+FreeCodeCamp JS Testing criteria (<script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Git Pages hosting
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can see the attached build log for construction process
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Background used under PixaBay licence, credit : "https://pixabay.com/get/g977048c4d3288e18c15a17e9080ce160e7fbbb9a3465f51ea96e2e743b4a6fb7fd0aaf6adefe9725df260dcbe744d813f28a38c2ac45dc3e46513545f0dacb6cc7aa659740fc9153db4af0345794c9ab_1920.jpg"
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+CURRENT VERSION:
+Works as intended
 
-## Learn More
+TO DO:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- I am happy with both the functionality and styling and it passes necessary testing conditions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Perhaps finish the last optional test (check buildlog for details and workaround)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- I could expand and develop into a blog post making machine 
