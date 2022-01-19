@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alcun.github.io/markdown-previewer/static/css/main.3ee9d794.css",
+    "main.js": "/alcun.github.io/markdown-previewer/static/js/main.e14b80ec.js",
+    "static/js/787.da74b096.chunk.js": "/alcun.github.io/markdown-previewer/static/js/787.da74b096.chunk.js",
+    "static/media/bg-1": "/alcun.github.io/markdown-previewer/static/media/bg-1.f3379dbff7a8e23b6635",
+    "index.html": "/alcun.github.io/markdown-previewer/index.html",
+    "main.3ee9d794.css.map": "/alcun.github.io/markdown-previewer/static/css/main.3ee9d794.css.map",
+    "main.e14b80ec.js.map": "/alcun.github.io/markdown-previewer/static/js/main.e14b80ec.js.map",
+    "787.da74b096.chunk.js.map": "/alcun.github.io/markdown-previewer/static/js/787.da74b096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee9d794.css",
+    "static/js/main.e14b80ec.js"
+  ]
+}
