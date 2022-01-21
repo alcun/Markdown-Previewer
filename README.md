@@ -4,29 +4,29 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-dev
 
 It generates rendered html by passing input data through react-markdwon component
 
-You can see it in action at: https://alcun.github.io/Markdown-Previewer
+You can see it in action at: https://alcun.github.io/markdown-previewer
 
 It uses a variety of langauges and frameworks:
 
-HTML 5
+- HTML 5
 
-SASS / SCSS + Bootstrap for styling/layout
+- SASS / SCSS + Bootstrap for styling/layout
 
-JS (Primarily React to generate HTML for component functionality and fetch API data)
+- JS (Primarily React to generate HTML for component functionality and fetch API data)
 
-Some Bootstrap for layout and icons
+- Some Bootstrap for layout and icons
 
 It was developed using:
 
-GitBash and Linux Mint
+- GitBash and Linux Mint
 
-Visual Studio Code and plugins
+- Visual Studio Code and plugins
 
-Node.js local dev server and NPM
+- Node.js local dev server and NPM
 
-FreeCodeCamp JS Testing criteria (<script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>)
+- FreeCodeCamp JS Testing criteria (<script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>)
 
-Git Pages hosting
+- Git Pages hosting
 
 You can see the attached build log for construction process
 
