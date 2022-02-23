@@ -1,12 +1,10 @@
-This is a markdown previewer made to fulfil the criteria of the first project from FreeCodeCamp's 'Front End Development Libraries' certification.
+# A Single Page Web App Markdown Previewer
 
-https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
-
-It generates rendered html by passing input data through react-markdwon component
+This is a markdown previewer made to display rendered HTML from inputted git-flavoured markdown.
 
 You can see it in action at: https://alcun.github.io/markdown-previewer
 
-It uses a variety of langauges and frameworks:
+## It uses a variety of langauges and frameworks:
 
 - HTML 5
 
@@ -16,7 +14,9 @@ It uses a variety of langauges and frameworks:
 
 - Some Bootstrap for layout and icons
 
-It was developed using:
+- React-markdown component 
+
+## It was developed using:
 
 - GitBash and Linux Mint
 
@@ -32,10 +32,10 @@ You can see the attached build log for construction process
 
 Background used under PixaBay licence, credit : "https://pixabay.com/get/g977048c4d3288e18c15a17e9080ce160e7fbbb9a3465f51ea96e2e743b4a6fb7fd0aaf6adefe9725df260dcbe744d813f28a38c2ac45dc3e46513545f0dacb6cc7aa659740fc9153db4af0345794c9ab_1920.jpg"
 
-CURRENT VERSION:
+## CURRENT VERSION:
 Works as intended
 
-TO DO:
+## TO DO:
 
 - I am happy with both the functionality and styling and it passes necessary testing conditions
 
